@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>    
+  <link href="bootstrap-theme.css" rel="stylesheet" type="text/css">
+  <link href="home_style.css" rel="stylesheet" type="text/css">
+  
+</head>
+
+<!-- W3lc0m3 to my tw!$t3d m!nddd -->
+
+
+
+  <body>
+  
+  <!-- Begin Navigation & Shit -->
+  <div class="corner-logo">
+   <img src="Objects/logo-black.png" align="left" width="80 px">
+   </div>
+    <div class="nav nav-tabs">
+      <div class="container">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Shop</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    
+    
+    
+ <!-- grid reference start
+ 
+ <div class="section group">
+	<div class="col span_1_of_12">
+	1 of 12
+	</div>
+</div>
+
+Grid Reference end -->   
+
+<!-- fill in with flash gallery eventually, placeholder is logo-->
+
+<div class="jumbotron">
+
+      <div class="container">
+      <div class="section group">
+      <div class="col span_5_of_12">
+      <img src="Objects/logo.png" width="380 px" align"left">
+      </div>
+      <div class="col span_7_of_12">
+        <h1>Social Anarchy Apparel</h1>
+        <p>Join the Revolution</p>
+        </div>
+        <a href="https://www.facebook.com/SocialAnarchyApparel"><img src="Objects/icon-fb-white.png" width="60 px"/></a>
+        <a href="https://twitter.com/Social_Anarchy_"><img src="Objects/icon-twitter-white.png" width="60 px"></a>
+        <a href="#"><img src="Objects/icon-insta-white.png" width="60 px"></a>
+        <a href="https://plus.google.com/u/0/106294506610422648445/"><img src="Objects/icon-google-white.png" width="60 px"></a>
+        </div>
+      </div>
+    </div>
+     
+<!-- Links to each respective themed line or whatever -->
+
+    <div class="info">
+        <div class="section group">
+      	   <div class="col span_3_of_12">
+           <a href="#"><img src="Objects/home-anarchy.png" width="280 px"></a>
+          </div>
+            <div class="col span_3_of_12">
+            <a href="#"><img src="Objects/home-geeky.png" width="280 px"></a>
+            </div>
+            <div class="col span_3_of_12">
+            <a href="#"><img src="Objects/home-equality.png" width="280 px"></a>
+            </div>
+            <div class="col span_3_of_12">
+            <a href="#"><img src="Objects/home-charity.png" width="280 px"></a>
+            </div>  
+      </div>  	  
+  </div>
+    
+  <!-- Begin footer links -->
+  
+  <div class="footer">
+    	<p>Social Anarchy Apparel &copy; 2015</p>
+        <a href="https://www.facebook.com/SocialAnarchyApparel"><img src="Objects/icon-fb-black.png" width="20 px"></a>
+        <a href="https://twitter.com/Social_Anarchy_"><img src="Objects/icon-twitter-black.png" width="20 px"></a>
+        <a href="#"><img src="Objects/icon-insta-black.png" width="20 px"></a>
+        <a href="https://plus.google.com/u/0/106294506610422648445/"><img src="Objects/icon-google-black.png" width="20 px"></a>
+        <a href="#">Terms and Conditions</a>
+        <a href="#">Privacy Policy</a>
+        </div>
+  
+    
+</body>
+
+
+</html>
